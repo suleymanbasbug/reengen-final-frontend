@@ -1,0 +1,44 @@
+{
+  "login": {
+    "login": "Login",
+    "signup": "Signup",
+    "allreadyacc": "Already have an account?",
+    "entermail": "Enter your email",
+    "enterpass": "Enter your password",
+    "rememberme": "Remember me",
+    "name": "Name",
+    "isadmin": "Is admin",
+    "createacc": "Create account"
+  },
+  "factory": {
+    "factories": "Factories",
+    "new": "New Factory",
+    "edit": "Edit Factory",
+    "name": "Factory Name",
+    "membership_exp_date": "Membership Expiration Date",
+    "membership_date": "Membership Date",
+    "number_of_employees": "Number of Employees",
+    "special_member": "Special Member",
+    "actions": "Actions"
+  },
+  "modal": {
+    "delete": "Delete",
+    "close": "Close",
+    "save": "Save",
+    "deleteitem": "Are you sure you want to delete this item ?",
+    "back": "Back"
+  },
+  "unit":{
+    "units": "Units",
+    "new": "New Unit",
+    "edit": "Edit Unit",
+    "name": "Unit Name",
+    "actions": "Actions",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "days": "Days",
+    "usage_fee": "Usage Fee",
+    "discounted_price": "Discounted Price",
+    "not_found": "named factory belonging to the  there is no unit."
+  }
+}

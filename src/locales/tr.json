@@ -1,0 +1,44 @@
+{
+  "login": {
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "allreadyacc": "Zaten hesabın var mı?",
+    "entermail": "E-posta adresinizi girin",
+    "enterpass": "Şifrenizi girin",
+    "rememberme": "Beni hatırla",
+    "name": "Adınız",
+    "isadmin": "Yönetici mi?",
+    "createacc": "Hesap Oluştur"
+  },
+  "factory": {
+    "factories": "Fabrikalar",
+    "new": "Yeni Fabrika",
+    "edit": "Fabrika Düzenle",
+    "name": "Fabrika Adı",
+    "membership_exp_date": "Üyelik Bitiş Tarihi",
+    "membership_date": "Üyelik Başlangıç Tarihi",
+    "number_of_employees": "Çalışan Sayısı",
+    "special_member": "Özel Üye",
+    "actions": "İşlemler"
+  },
+  "modal": {
+    "delete": "Sil",
+    "close": "İptal",
+    "save": "Kaydet",
+    "deleteitem": "Bu öğeyi silmek istediğinizden emin misiniz?",
+    "back":"Geri"
+  },
+  "unit":{
+    "units": "Birimler",
+    "new": "Yeni Birim",
+    "edit": "Birim Düzenle",
+    "name": "Birim Adı",
+    "actions": "İşlemler",
+    "start_date": "Başlangıç Tarihi",
+    "end_date": "Bitiş Tarihi",
+    "days": "Gün Sayısı",
+    "usage_fee": "Kullanım Miktarı",
+    "discounted_price": "İndirimli Fiyat",
+    "not_found": "İsimli fabrika için birim kaydı bulunamadı"
+  }
+}
